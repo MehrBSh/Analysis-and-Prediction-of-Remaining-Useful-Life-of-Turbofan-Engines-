@@ -12,8 +12,10 @@ Triebwerke, zur Evaluation).
 Die zeitliche Entwicklung der Sensorwerte ermöglicht die Untersuchung von 
 Degradationsmustern und Veränderungen des Triebwerkszustands. Aus den Betriebszyklen 
 kann außerdem die verbleibende Nutzungsdauer (Remaining Useful Life, RUL) bestimmt 
-werden. Diese dient als Grundlage für die spätere Prognose mit Machine-Learning-Verfahren.  
+werden. Diese dient als Grundlage für die spätere Prognose mit Machine-Learning-Verfahren. 
+
 ( https://www.kaggle.com/datasets/behrad3d/nasa-cmaps ).
+
 Projektidee, Beschreibung: 
 Ziel des Projekts ist die Analyse von Betriebs- und Sensordaten von Flugzeugtriebwerken auf 
 Basis des NASA C-MAPSS-Datensatzes. Die Daten werden zunächst eingelesen, strukturell 
