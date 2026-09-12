@@ -33,18 +33,31 @@ Useful Life, RUL) angewendet und anhand geeigneter Kennzahlen bewertet und vergl
 Die wichtigsten Ergebnisse der Analyse und Modellierung werden abschließend in einem 
 Dashboard dargestellt. 
 
-## Installation
+#How to run :
 
-git clone https://github.com/MehrBSh/Analysis-and-Prediction-of-Remaining-Useful-Life-of-Turbofan-Engines-.git
-cd Analysis-and-Prediction-of-Remaining-Useful-Life-of-Turbofan-Engines-
+Clone the repo and enter it:
+   g   git clone https://github.com/MehrBSh/Analysis-and-Prediction-of-Remaining-Useful-Life-of-Turbofan-Engines-.git
+   
+   cd Analysis-and-Prediction-of-Remaining-Useful-Life-of-Turbofan-Engines-
 
-python -m venv .venv
 
-# Windows
-.venv\Scripts\activate
+#Create and activate a virtual environment:
 
-pip install -r requirements.txt
+   python -m venv .venv
+   
+   # Windows
+   
+   .venv\Scripts\activate
+   
+   # macOS/Linux
+   
+   source .venv/bin/activate
 
-jupyter notebook
+   pip install -r requirements.txt
+
+   #Launch and run the notebook
+
+      
+  jupyter notebook
 
 
