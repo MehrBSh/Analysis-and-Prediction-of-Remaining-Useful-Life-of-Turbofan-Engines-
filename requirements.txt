@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+dash
+scikit-learn
+xgboost
+tensorflow
+spacy
+jupyter
+notebook
