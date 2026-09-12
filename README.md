@@ -54,6 +54,8 @@ Clone the repo and enter it:
    
    source .venv/bin/activate
 
+## install requirements
+
    pip install -r requirements.txt
 
 ##Launch and run the notebook
