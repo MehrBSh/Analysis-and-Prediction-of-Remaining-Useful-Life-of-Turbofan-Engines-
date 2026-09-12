@@ -36,7 +36,8 @@ Dashboard dargestellt.
 #How to run :
 
 Clone the repo and enter it:
-   g   git clone https://github.com/MehrBSh/Analysis-and-Prediction-of-Remaining-Useful-Life-of-Turbofan-Engines-.git
+   
+   git clone https://github.com/MehrBSh/Analysis-and-Prediction-of-Remaining-Useful-Life-of-Turbofan-Engines-.git
    
    cd Analysis-and-Prediction-of-Remaining-Useful-Life-of-Turbofan-Engines-
 
